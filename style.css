@@ -22,7 +22,7 @@ body {
     z-index: -5;
     background: linear-gradient(-135deg,hsl(293, 100%, 63%) 5%,hsl(264, 100%, 61%) 95%);
     width: 435px;
-    height: 670px;
+    height: 780px;
     top: 0;
     left: -3%;
     border-bottom-right-radius: 230px;
@@ -254,7 +254,7 @@ body {
     z-index: -5;
     background: hsla(276, 50%, 96%, 0.677);
     width: 405px;
-    height: 770px;
+    height: 780px;
     bottom: 0;
     right: 0;
     border-top-left-radius: 230px;
